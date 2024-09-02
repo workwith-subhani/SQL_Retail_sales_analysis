@@ -7,16 +7,13 @@ This project is focused on leveraging SQL to perform a comprehensive analysis of
 
 To achieve meaningful insights, the project is structured into the following key phases:
 
-Set up a Retail Sales Database: The first step involves creating a robust database structure to efficiently store and manage the sales data. This includes defining tables that capture essential details about transactions, customers, products, and sales metrics. Proper indexing and normalization are applied to optimize query performance and data integrity.
+**1. Database Setup**: Create a robust database schema to manage sales data, including defining tables and applying indexing and normalization for optimal performance and data integrity.
 
-Data Cleaning: Before analysis, the data is cleaned to address any inconsistencies or errors, such as missing values, duplicates, and formatting issues. This step ensures that the dataset is accurate and reliable, which is crucial for drawing valid conclusions. SQL techniques like filtering, updating, and joining tables are employed to refine the dataset.
+**2. Data Cleaning**: Clean the data by addressing inconsistencies, missing values, and duplicates, ensuring accuracy and reliability for analysis.
 
-Exploratory Data Analysis (EDA): With a clean dataset, SQL is used to conduct EDA, which involves summarizing and visualizing the data to identify patterns and trends. This phase helps in understanding key aspects such as seasonal sales trends, customer demographics, and product performance. Various SQL functions and aggregation techniques are used to extract insights from the data.
+**3. Exploratory Data Analysis (EDA)**: Use SQL to summarize and visualize the cleaned data, identifying patterns, trends, and key aspects such as sales trends and customer demographics.
 
-Business Insights and answering key questions: The final phase involves using SQL to answer specific business questions and derive actionable insights. This includes analyzing which products are the most profitable, identifying the most valuable customer segments, and understanding the factors driving sales growth. The results of this analysis can inform strategic decisions, such as inventory management, marketing campaigns, and pricing strategies.
-
-By following these steps, the project not only demonstrates the practical application of SQL for real-world data analysis but also equips participants with the skills needed to translate raw data into meaningful business insights.
-
+**4. Business Insights and Key Questions**: Utilize SQL to answer specific business questions, uncovering actionable insights on product profitability, customer segments, and sales drivers to support strategic decisions.
 
 ## Project Objectives
 
