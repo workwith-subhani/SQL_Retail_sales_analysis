@@ -13,18 +13,15 @@ To achieve meaningful insights, the project is structured into the following key
 
 **3. Exploratory Data Analysis (EDA)**: Use SQL to summarize and visualize the cleaned data, identifying patterns, trends, and key aspects such as sales trends and customer demographics.
 
-**4. Business Insights and Key Questions**: Utilize SQL to answer specific business questions, uncovering actionable insights on product profitability, customer segments, and sales drivers to support strategic decisions.
+**4. Data Analysis & Findings**: Utilize SQL to answer specific business questions, uncovering actionable insights on product profitability, customer segments, and sales drivers to support strategic decisions.
 
 ## Project Objectives
 
-1. Database setup
-2. Data cleaning
-3. Exploratory Data analysis
-4. Business Insights and answering key questions
+**1. Database Setup**: Design and implement a structured database to efficiently manage and store retail sales data.
+**2. Data Cleaning and Exploratory Data Analysis (EDA)**: Clean the dataset to ensure accuracy and use SQL to summarize and visualize data to identify key patterns and trends.
+**3. Data Analysis & Findings**: Analyze the cleaned data to answer business questions and derive actionable insights for strategic decision-making.
 
    
-## Project Structure
-
 ### 1. Database Setup
 
 - **Database Creation**: The project starts by creating a database named `p1_retail_db`.
