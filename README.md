@@ -24,6 +24,7 @@ To achieve meaningful insights, the project is structured into the following key
 **3. Data Analysis & Findings**: Analyze the cleaned data to answer business questions and derive actionable insights for strategic decision-making.
 
 ## Project 
+![download](https://github.com/user-attachments/assets/44576698-d8b8-40f3-b373-453098a09869)
 
 ### 1. Database Setup
 
