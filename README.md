@@ -23,14 +23,19 @@ To achieve meaningful insights, the project is structured into the following key
 
 **3. Data Analysis & Findings**: Analyze the cleaned data to answer business questions and derive actionable insights for strategic decision-making.
 
-   
+## Project 
+
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
-- **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
+**1. Database Creation**: The project begins by setting up a database named `Retail_db`.
 
 ```sql
-CREATE DATABASE p1_retail_db;
+CREATE DATABASE retail_db;
+```
+
+**2. Table**: Within this database, a table called retail_sales is created to store transaction details, including information on sales dates, times, customer demographics, product categories, quantities sold, and financial metrics. The transactions_id column is designated as the primary key to ensure each transaction record is unique.
+
+```sql
 
 CREATE TABLE retail_sales
 (
@@ -47,6 +52,7 @@ CREATE TABLE retail_sales
     total_sale FLOAT
 );
 ```
+
 
 ### 2. Data Exploration & Cleaning
 
